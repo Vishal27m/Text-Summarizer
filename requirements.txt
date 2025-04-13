@@ -1,0 +1,5 @@
+transformers
+streamlit
+PyPDF2
+docx2txt
+textstat
