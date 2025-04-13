@@ -1,5 +1,7 @@
 transformers
 streamlit
+torch
 PyPDF2
 docx2txt
 textstat
+
