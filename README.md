@@ -53,11 +53,11 @@ pip install transformers torch streamlit
 2. **Run the script (CLI/Notebook):**  
 - For Python script:  
   ```bash
-  python BART.py
+  python Key.py
   ```
 - For Streamlit UI (optional):  
   ```bash
-  streamlit run BART.py
+  streamlit run Key.py
   ```
 
 ---
