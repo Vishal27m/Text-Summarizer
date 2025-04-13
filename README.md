@@ -1,6 +1,6 @@
 ---
 
-# 📝 BART-based Text Summarizer
+# 📝 BART-based Text Summarizer Multilingual
 
 This is a simple AI utility that takes a long piece of text as input and returns a **3-line summary** using the `facebook/bart-large-cnn` model from Hugging Face Transformers.
 
