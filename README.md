@@ -1,4 +1,5 @@
 📝 BART-based Text Summarizer
+
 A simple AI utility that generates a 3-line summary from any large block of text using the powerful facebook/bart-large-cnn model from Hugging Face.
 
 🔍 About the Project
